@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "qxijie--me.proxy.szu.edu.cn",
+  "Id": "6f8bd991-edbf-446a-975a-bb4260079b2f"
+}
